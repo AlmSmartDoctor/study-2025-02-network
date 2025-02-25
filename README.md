@@ -5,7 +5,7 @@
 ## 목차
 
 - [스터디 규칙](./src/rule.md)
-- 발표 순서
+- [발표 순서](https://smartdoctor.atlassian.net/wiki/spaces/BE/pages/839024641/2025.02)
 - 참여인원
 
 ### 1. 웹 브라우저
