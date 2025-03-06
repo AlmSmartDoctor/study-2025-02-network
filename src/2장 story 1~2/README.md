@@ -96,7 +96,7 @@ PID : 프로세스 아이디 - 작업관리자로 프로그램 확인 가능
 
 - 3-Way handshake
 <img src="https://github.com/user-attachments/assets/3130b1d2-ae82-42d1-aa10-b51a68ade37e" />
-a는 sequence number, b는 acknowledgment number : 패킷이 여러개여서 구분하기 위한 정보
+a, b는 각각 시퀀스 번호 초기값
 
 
 소켓이 데이터를 송/수신할 수 있는 상태가 된다. 소켓이 연결되었다!
