@@ -16,7 +16,7 @@
     - 잡음의 삽입
 
 <img src="./images/image2.jpg" width="400" />
-<img src="./images/image3.png" width="400" />
+<img src="./images/image3.png" width="600" />
 
 - 잡음의 억제: Twisted Pair Cable(꼰 선쌍)
   - 잡음의 생성 원리
