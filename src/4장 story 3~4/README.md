@@ -12,11 +12,11 @@
 - PPP 메시지에 사용자의 아이디, 패스워드가 담겨있음
 - RADIUS라는 프로토콜을 이용하여 인증서버(RAS)에서 가입자가 맞는지 확인이 되면 IP 주소 등의 설정 정보가 반송됨
 - 이 정보를 사용자 측에서 IP주소에 저장
-![KakaoTalk_20250326_233950690_01](https://github.com/user-attachments/assets/82e406a5-ea09-46f1-ad30-7fedc3e667a7)
+![KakaoTalk_20250326_233950690_01](https://github.com/user-attachments/assets/82e406a5-ea09-46f1-ad30-7fedc3e667a7){: width="50%" height="50%"}
 
 - 인터넷 관리 업체들의 사용자 관리 요구 및 이더넷과 PPP의 결합이 필요해짐 -> PPPoE 등장
-![KakaoTalk_20250326_233950690](https://github.com/user-attachments/assets/a06bd3ef-d242-45b8-b23e-87709f11d889)
-![KakaoTalk_20250326_234341062](https://github.com/user-attachments/assets/cb8fae74-3199-4593-a310-b1a58f7919f1)
+![KakaoTalk_20250326_233950690](https://github.com/user-attachments/assets/a06bd3ef-d242-45b8-b23e-87709f11d889){: width="50%" height="50%"}
+![KakaoTalk_20250326_234341062](https://github.com/user-attachments/assets/cb8fae74-3199-4593-a310-b1a58f7919f1){: width="50%" height="50%"}
 ---
 #### 엑세스 회선의 전체적인 동작 요약
 1. 인터넷 진입용 라우터 진입
