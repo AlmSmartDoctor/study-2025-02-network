@@ -15,8 +15,9 @@
 <img src="https://github.com/user-attachments/assets/82e406a5-ea09-46f1-ad30-7fedc3e667a7" width="50%" height="50%" />
 
 - 인터넷 관리 업체들의 사용자 관리 요구 및 이더넷과 PPP의 결합이 필요해짐 -> PPPoE 등장
-![KakaoTalk_20250326_233950690](https://github.com/user-attachments/assets/a06bd3ef-d242-45b8-b23e-87709f11d889){: width="50%" height="50%"}
-![KakaoTalk_20250326_234341062](https://github.com/user-attachments/assets/cb8fae74-3199-4593-a310-b1a58f7919f1){: width="50%" height="50%"}
+<img src="https://github.com/user-attachments/assets/a06bd3ef-d242-45b8-b23e-87709f11d889" width="50%" height="50%" />
+<img src="https://github.com/user-attachments/assets/cb8fae74-3199-4593-a310-b1a58f7919f1" width="50%" height="50%" />
+
 ---
 #### 엑세스 회선의 전체적인 동작 요약
 1. 인터넷 진입용 라우터 진입
@@ -34,7 +35,7 @@
 - 이 라우터에 연결된 PC는 글로벌 IP에 대한 프라이빗 IP로 변환됨
 
 - PPPoE 패킷 구조
-![KakaoTalk_20250327_001518242](https://github.com/user-attachments/assets/9b1373af-1d34-4a34-bf0d-719f9e8300fe)
+<img src="https://github.com/user-attachments/assets/9b1373af-1d34-4a34-bf0d-719f9e8300fe" width="50%" height="50%" />
 ---
 ##### PPPoE 이외의 방식인 PPPoA
 - PPPoA는 MAC헤더와 PPPoE 헤더를 붙이지 않고 PPP 메시지를 전달함
@@ -48,7 +49,7 @@
 ### Story4 프로바이더 내부
 
 **엑세스 회선을 빠져나온 패킷은 인터넷에 연결됨**
-![KakaoTalk_20250327_003616697](https://github.com/user-attachments/assets/8289f67e-0cef-4668-ad62-d373b1e5c2bf)
+<img src="https://github.com/user-attachments/assets/8289f67e-0cef-4668-ad62-d373b1e5c2b" width="50%" height="50%" />
 - 각 엑세스회선에서 나온 패킷은 엑세스 회선에 맞는 라우터에 연결됨
 
 프로바이더의 라우터의 전송 능력: **테라비트/초** 넘음
