@@ -7,7 +7,7 @@
 - BAS는 이 역할의 수행을 위해 PPPoE 구조를 사용한다.
 - PPPoE는 보통의 전화 회선을 이용한 다이얼업(1990년대부터 2000년대 초반에 사용한 전화선을 이용한 방식)접속으로 이용하는 PPP구조를 발전시킨 것
 ---
-##### PPP 구조란?
+#### PPP 구조란?
 - Point-to-Point Protocol
 ![KakaoTalk_20250326_233950690_01](https://github.com/user-attachments/assets/82e406a5-ea09-46f1-ad30-7fedc3e667a7)
 - PPP 메시지에 사용자의 아이디, 패스워드가 담겨있음
@@ -17,7 +17,7 @@
 ![KakaoTalk_20250326_233950690](https://github.com/user-attachments/assets/a06bd3ef-d242-45b8-b23e-87709f11d889)
 ![KakaoTalk_20250326_234341062](https://github.com/user-attachments/assets/cb8fae74-3199-4593-a310-b1a58f7919f1)
 ---
-##### 엑세스 회선의 전체적인 동작 요약
+#### 엑세스 회선의 전체적인 동작 요약
 1. 인터넷 진입용 라우터 진입
    - PPPoE, PPP 헤더가 부가됨
    - BAS의 MAC주소를 찾는 Discovery구조 실행
@@ -35,12 +35,12 @@
 - PPPoE 패킷 구조
 ![KakaoTalk_20250327_001518242](https://github.com/user-attachments/assets/9b1373af-1d34-4a34-bf0d-719f9e8300fe)
 ---
-###### PPPoE 이외의 방식인 PPPoA
+##### PPPoE 이외의 방식인 PPPoA
 - PPPoA는 MAC헤더와 PPPoE 헤더를 붙이지 않고 PPP 메시지를 전달함
 - 이더넷에서는 MAC주소 기반이기 때문에 라우터-ADSL모뎀 일체화 모델이 필요함
 - 헤더가 없기에 MTU가 길어짐
 
-###### 사내 LAN에서 DHCP 구조
+##### 사내 LAN에서 DHCP 구조
 - 사용자명과 패스워드를 확인하지 않고 TCP/IP의 설정 정보를 통지하는 구조
 - MTU가 길어짐
 ---
