@@ -1,4 +1,4 @@
-##스터디 퀴즈 입니다
+## 스터디 퀴즈 입니다
 
 https://docs.google.com/forms/d/e/1FAIpQLSf14-9udCnxpo5LpABi8Pbk_m0oxJA_xyXqsNHdLSTAu7wp1g/viewform?usp=sharing
 
